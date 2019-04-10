@@ -1,0 +1,22 @@
+{
+  "name": "head-pose-estimation-using-opencvjs-and-tensorflowjs-posenet",
+  "version": "1.0.0",
+  "description": "click \"Open in New Window\" to use your camera",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@cycle/dom": "22.3.0",
+    "@cycle/run": "5.2.0",
+    "@mjyc/opencv.js": "1.0.0",
+    "cycle-posenet-driver": "0.0.20",
+    "xstream": "11.7.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
