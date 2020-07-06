@@ -4,4 +4,4 @@ A head pose estimation Cycle.js demo app using [OpenCV.js](https://github.com/mj
 
 Run `npm start` and open `index.html` in your browser or visit [here](https://008olz2wmn.codesandbox.io/).
 
-Code is also available at [codesandbox](https://codesandbox.io/s/008olz2wmn).
+See a demo at [codesandbox](https://codesandbox.io/s/008olz2wmn).
